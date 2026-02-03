@@ -1,4 +1,4 @@
-# jit
+# jgit
 
 A Git implementation from scratch in Java, for learning purposes.
 
